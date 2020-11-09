@@ -40,5 +40,10 @@ namespace CsharpTemplate.PageObjects
             //Driver.WaitToElementExistandClick(LoginButton);
             //Driver.WaitToLoadPage();
         }
+
+        public string loginText()
+        {
+            return LoginButton.Text;
+        }
     }
 }

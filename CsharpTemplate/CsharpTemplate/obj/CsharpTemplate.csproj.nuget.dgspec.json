@@ -93,6 +93,10 @@
             "SpecFlow.NUnit": {
               "target": "Package",
               "version": "[3.4.31, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
             }
           },
           "imports": [

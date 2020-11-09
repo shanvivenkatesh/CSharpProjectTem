@@ -1,6 +1,3 @@
-C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.AssemblyInfoInputs.cache
-C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.AssemblyInfo.cs
-C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.csproj.CoreCompileInputs.cache
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\testhost.exe
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\testhost.dll
@@ -10,6 +7,8 @@ C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\CsharpTemplate.exe
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\StepsDefinition\OpenBrowserSteps.cs
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\CsharpTemplate.deps.json
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\CsharpTemplate.runtimeconfig.json
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\CsharpTemplate.runtimeconfig.dev.json
@@ -101,6 +100,7 @@ C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\SharpCompress.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\TechTalk.SpecFlow.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
@@ -174,11 +174,17 @@ C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\nativeassets\netcoreapp2.2\aspnetcorev2_inprocess.dll
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.csprojAssemblyReference.cache
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.AssemblyInfoInputs.cache
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.AssemblyInfo.cs
+C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.csproj.CoreCompileInputs.cache
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.csproj.CopyComplete
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.dll
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.pdb
 C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.genruntimeconfig.cache
-C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\StepsDefinition\OpenBrowserSteps.cs
-C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\obj\Debug\netcoreapp3.1\CsharpTemplate.csprojAssemblyReference.cache
-C:\Users\Varima\Documents\GitHub\CSharpProjectTem\CsharpTemplate\CsharpTemplate\bin\Debug\netcoreapp3.1\appsettings.json
