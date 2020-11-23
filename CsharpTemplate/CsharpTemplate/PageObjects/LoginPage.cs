@@ -45,5 +45,22 @@ namespace CsharpTemplate.PageObjects
         {
             return LoginButton.Text;
         }
+
+        public string[] GetOrderStatusText(string status)
+        {
+            string[] orderStatusText = new string[10];
+            Driver.WaitForElementToExist(SearchPanelBox);
+            if (string.Equals(status, "orderStatus", System.StringComparison.CurrentCultureIgnoreCase))
+            {
+                for (int i = 0; i < 10; i++)
+                {
+                    orderStatusText[i] = Driver.FindElement(By.CssSelector("app-order-statuses :nth-child(" + (i + 2).ToString() + ") > label")).Text;
+                }
+            }
+
+
+
+            return orderStatusText;
+        }
     }
 }

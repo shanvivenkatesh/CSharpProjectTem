@@ -1,4 +1,5 @@
 ﻿using CsharpTemplate.PageObjects;
+using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -29,7 +30,13 @@ namespace CsharpTemplate.StepsDefinition
             var agentCode = _context.Get<string>("agentCode");
             var providername = _context.Get<string>("providername");
             var fundIdentifierValue = _context.Get<string>("fundIdentifierValue");
+
+            string[] orderStatus = _loginPage.GetOrderStatusText("orderStatus");
+            foreach (var label in _orderCardsPage.GetOrderStatusOnOrderCardHeader())
+            {
+                Assert.That(orderStatus[number].ToUpper().Contains(label.Text));
+            }
         }
+    }
 
     }
-}
